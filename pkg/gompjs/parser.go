@@ -3,7 +3,7 @@ package gompjs
 import (
 	"strconv"
 
-	"github.com/proway2/gomp/internal/chompjs"
+	"github.com/proway2/gompjs/internal/chompjs"
 )
 
 type UnmarshalFunc func([]byte, any) error
