@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/proway2/gomp/pkg/gompjs"
+	"github.com/proway2/gompjs/pkg/gompjs"
 )
 
 func main() {

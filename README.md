@@ -52,7 +52,7 @@ type UnmarshalFunc func([]byte, any) error
 Import the package:
 
 ```go
-import "github.com/proway2/gomp/pkg/gompjs"
+import "github.com/proway2/gompjs/pkg/gompjs"
 ```
 
 See [./examples](./examples/) for implementation samples.
